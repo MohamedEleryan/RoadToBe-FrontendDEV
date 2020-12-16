@@ -57,3 +57,26 @@ Just for future Knowledge because U will be Dumb if you build websites and don't
 - Linux - Bash
 - Mac - iTerm
 - Cross Platform - Git Bash
+
+## Learn HTML
+> You need to Know at current Level (HTML basic tags, semantic tags, form elements, Media Elements, Accessibility, CEO Basic tags )
+
+##### Free Tutorials
+- [HTML Tutorials For Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ibZ2TSBaGGNrgh4ZgYE6Cc "HTML Tutorials For Beginners")
+- [HTML Full Course](https://youtu.be/pQN-pnXPaVg "HTML Full Course")
+[Introduction to HTML  - scrimba](https://scrimba.com/learn/html "Introduction to HTML  - scrimba")
+[Learn HTML - code academy](https://www.codecademy.com/learn/learn-html "Learn HTML - code academy")
+
+##### paid Tutorials
+- [LinkedIn Learning - HTML Essential Training [free for limited time]](https://www.linkedin.com/learning/html-essential-training-4 "LinkedIn Learning - HTML Essential Training [free for limited time]")
+- [Lynda - Understanding HTML5](https://www.lynda.com/D3-js-tutorials/Understanding-HTML5/504428/549387-4.html "Lynda - Understanding HTML5")
+
+##### Books
+- [HTML and CSS Design and Build Websites](https://www.amazon.com/dp/1118008189?tag=uuid10-20 "HTML and CSS Design and Build Websites")
+- [HTML 101](https://www.amazon.com/HTML-101-Essential-Beginners-Learning/dp/1976874696?tag=uuid10-20 "HTML 101")
+- [HTML5: The Missing Manual](https://www.amazon.com/_/dp/1449302394?tag=oreilly20-20 "HTML5: The Missing Manual")
+[HTML5 Notes for Professionals book](https://books.goalkicker.com/HTML5Book/ "HTML5 Notes for Professionals book")
+
+###### *Arabic Tutorial*
+- [Learn HTML In Arabic](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwClZ1PDcjWilxp9YERUbNt "Learn HTML In Arabic")
+- [Learn HTML5 In Arabic](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyXCAQMLhDRZsLi_HurqTBZ "Learn HTML5 In Arabic")
