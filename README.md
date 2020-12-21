@@ -174,3 +174,38 @@ U may wanna learn when you learn Javascript framework ( Styled Components or CSS
 
 - [Styled Components - Documentation](https://styled-components.com/ "Styled Components - Documentation")
 - [CSS Modules](https://github.com/css-modules/css-modules "CSS Modules")
+
+## JavaScript
+Till this Level You Build Wonderful Websites but still static, so now it's javascript Turn to make Your Website More Dynamic and Handle user actions
+
+#### JavaScript Fundamentals 
+
+Learn what is javascript, data types, variables, functions, conditions, objects, looping, Es6 Topics,...
+
+- [JavaScript Fundamentals❤️](https://www.youtube.com/watch?v=2Ji-clqUYnA "JavaScript Fundamentals")
+- [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg "Learn JavaScript - Full Course for Beginners")
+- [JavaScript Tutorials for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET "JavaScript Tutorials for Beginners")
+- [Modern JavaScript Tutorial❤️](https://www.youtube.com/playlist?list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc "Modern JavaScript Tutorial")
+- [JavaScript ES6 / ES2015 Tutorials](https://www.youtube.com/playlist?list=PLillGF-RfqbZ7s3t6ZInY3NjEOOX7hsBv "JavaScript ES6 / ES2015 Tutorials")
+- [JavaScript ES6 Tutorials](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gKfw25slm4CUDUcM_sXdml "JavaScript ES6 Tutorials")
+
+#### JavaScript DOM and Events
+- [JavaScript DOM Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gfoKa5la9dsdCNpuey2s-V "JavaScript DOM Tutorial")
+- [Javascript DOM](https://www.youtube.com/playlist?list=PLVvjrrRCBy2JS8__NYlhPeaoNz2p1aPEN "Javascript DOM")
+- [The Document Object Model (DOM)](https://www.youtube.com/playlist?list=PLyuRouwmQCjkuH93Mq8zgi8bybNjvDTu2 "The Document Object Model (DOM)")
+
+#### Pure JavaScript Projects
+- [15 Vanilla Javascript Projects❤️](https://www.youtube.com/watch?v=c5SIG7Ie0dM "15 Vanilla Javascript Projects")
+- [JavaScript30](https://www.youtube.com/playlist?list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH "JavaScript30")
+
+#### JavaScipt Advanced
+- [Object Oriented JavaScript](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i5yvDkJgt60vNVWffpblB7 "Object Oriented JavaScript")
+- [JavaScript Classes](https://www.youtube.com/playlist?list=PLVvjrrRCBy2I2eE1e1yOuhts2oTvWesMy "JavaScript Classes")
+- [JavaScript Concepts [Important]](https://www.youtube.com/playlist?list=PLyuRouwmQCjkrbkLxphTrIA_9ZUA-vppS "JavaScript Concepts [Important]")
+- [Asynchronous JavaScript (2020 version)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jx2TTZk3IGWKSbtugYdrlu "Asynchronous JavaScript (2020 version)")
+
+##### JavaScript Paid Courses
+- [The Modern Javascript Bootcamp Course](https://www.udemy.com/course/javascript-beginners-complete-tutorial/ "The Modern Javascript Bootcamp Course")
+- [JavaScript - The Complete Guide (Beginner + Advanced)](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/ "JavaScript - The Complete Guide (Beginner + Advanced)")
+- [The Complete JavaScript Course : From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/ "The Complete JavaScript Course : From Zero to Expert!")
+- [Modern JavaScript From The Beginning](https://www.udemy.com/course/modern-javascript-from-the-beginning/ "Modern JavaScript From The Beginning")
