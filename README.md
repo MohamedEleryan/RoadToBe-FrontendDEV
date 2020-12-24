@@ -194,15 +194,18 @@ Learn what is javascript, data types, variables, functions, conditions, objects,
 - [JavaScript ES6 Tutorials](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gKfw25slm4CUDUcM_sXdml "JavaScript ES6 Tutorials")
 
 #### JavaScript DOM and Events
+
 - [JavaScript DOM Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gfoKa5la9dsdCNpuey2s-V "JavaScript DOM Tutorial")
 - [Javascript DOM](https://www.youtube.com/playlist?list=PLVvjrrRCBy2JS8__NYlhPeaoNz2p1aPEN "Javascript DOM")
 - [The Document Object Model (DOM)](https://www.youtube.com/playlist?list=PLyuRouwmQCjkuH93Mq8zgi8bybNjvDTu2 "The Document Object Model (DOM)")
 
 #### Pure JavaScript Projects
+
 - [15 Vanilla Javascript Projects❤️](https://www.youtube.com/watch?v=c5SIG7Ie0dM "15 Vanilla Javascript Projects")
 - [JavaScript30](https://www.youtube.com/playlist?list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH "JavaScript30")
 
 #### JavaScipt Advanced
+
 - [Object Oriented JavaScript](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i5yvDkJgt60vNVWffpblB7 "Object Oriented JavaScript")
 - [JavaScript Classes](https://www.youtube.com/playlist?list=PLVvjrrRCBy2I2eE1e1yOuhts2oTvWesMy "JavaScript Classes")
 - [JavaScript Concepts [Important]](https://www.youtube.com/playlist?list=PLyuRouwmQCjkrbkLxphTrIA_9ZUA-vppS "JavaScript Concepts [Important]")
@@ -213,3 +216,18 @@ Learn what is javascript, data types, variables, functions, conditions, objects,
 - [JavaScript - The Complete Guide (Beginner + Advanced)](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/ "JavaScript - The Complete Guide (Beginner + Advanced)")
 - [The Complete JavaScript Course : From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/ "The Complete JavaScript Course : From Zero to Expert!")
 - [Modern JavaScript From The Beginning](https://www.udemy.com/course/modern-javascript-from-the-beginning/ "Modern JavaScript From The Beginning")
+
+and if You wanna to learn The core and behind scenes of JavaScript there are no course better than 
+- [JavaScript: Understanding the Weird
+[YouTube Version](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts "YouTube Version")
+
+#### Best Books to Learn JavaScript
+- [Eloquent JavaScript](https://eloquentjavascript.net/ "Eloquent JavaScript")
+- [You Don't Know JS: Scope & Closures](https://www.amazon.com/You-Dont-Know-JS-Closures/dp/1449335586 "ou Don't Know JS: Scope & Closures")
+- [You Don't Know JS Yet - GitHub version](https://github.com/getify/You-Dont-Know-JS "You Don't Know JS Yet - GitHub version")
+- [JavaScript: The Good Parts: The Good Parts](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742 "JavaScript: The Good Parts: The Good Parts")
+- [JavaScript and JQuery: Interactive Front-End Web Development](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647 "JavaScript and JQuery: Interactive Front-End Web Development")
+- [Effective JavaScript](https://www.amazon.com/Effective-JavaScript-Specific-Software-Development/dp/0321812182 "Effective JavaScript")
+
+[![](https://i.ibb.co/3kTbmdt/javascript.png)](https://drive.google.com/file/d/1gLW1fXBbKmi0v18L4GpCQ3us2HOV2Xsm/view?usp=sharing)
+
